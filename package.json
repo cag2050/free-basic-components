@@ -1,0 +1,22 @@
+{
+  "name": "cag-basic-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-dom": ">=16.0.0"
+  },
+  "dependencies": {
+    "@types/react": "^16.4.7",
+    "antd": "^3.7.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
